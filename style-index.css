@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+.imagen-test
+{
+    max-width: 100%;
+}
+
+.contenedor {
+    width: 100%;
+    margin: 0 auto;
+    background: #ddd;
+}
+
+.article {
+    width: 62.5%;
+    background: pink;
+    display: inline-block;
+    margin-right: -4px;
+    vertical-align: top;
+}
+
+.aside {
+    width: 37.5%;
+    background: yellow;
+    display: inline-block;
+    margin-right: -4px;
+}
